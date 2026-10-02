@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         ADN Killer
-// @namespace    http://tampermonkey.net/
-// @version      1.9
 // @description  Attempts to avoid Apex Domain Names whenever possible
 // @author       PixelSpark987 - https://is.gd/PS987
+// @version      2.0
+// @namespace    http://tampermonkey.net/
+// @downloadURL  https://raw.githubusercontent.com/PixelSpark987/ADN-Killer/refs/heads/main/ADN%20Killer.js
+// @updateURL    https://raw.githubusercontent.com/PixelSpark987/ADN-Killer/refs/heads/main/ADN%20Killer.js
 // @match        http://*/*
 // @match        https://*/*
 // @run-at       document-start
