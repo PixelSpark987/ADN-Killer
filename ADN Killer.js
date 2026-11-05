@@ -2,7 +2,7 @@
 // @name         ADN Killer
 // @description  Attempts to avoid Apex Domain Names whenever possible
 // @author       PixelSpark987 - https://is.gd/PS987
-// @version      2.3
+// @version      2026-11-05_01
 // @namespace    http://tampermonkey.net/
 // @downloadURL  https://raw.githubusercontent.com/PixelSpark987/ADN-Killer/refs/heads/main/ADN%20Killer.js
 // @updateURL    https://raw.githubusercontent.com/PixelSpark987/ADN-Killer/refs/heads/main/ADN%20Killer.js
@@ -15,7 +15,7 @@
 // ==/UserScript==
 
 (function() {
-    'use me strict';
+    'use strict';
 
     const hostname = location.hostname;
 
